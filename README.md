@@ -1,6 +1,3 @@
-Here's the complete Markdown (`.md`) file with all the content properly formatted:
-
-```markdown
 # LeetCode Java Solutions Starter
 
 ## 🚀 Quick Commands
